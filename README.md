@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 💬 Ask me about **C++ Html CSS Bootstrap**
+- 💬 Ask me about **C++ Html CSS Bootstrap JavaScript ReactJS **
 
 - 📫 How to reach me **Sonu88ggn@gmail.com**
 
