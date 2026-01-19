@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonu8826&label=Profile%20views&color=0e75b6&style=flat" alt="sonu8826" /> </p>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m **Fullstack Developer**
 
-- 💬 Ask me about **C++ Html CSS Bootstrap JavaScript ReactJS **
+- 💬 Ask me about ** Html CSS Bootstrap JavaScript ReactJS **
 
 - 📫 How to reach me **Sonu88ggn@gmail.com**
 
